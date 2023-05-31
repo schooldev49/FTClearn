@@ -12,6 +12,10 @@ __**useful online resources**__
 __**tips**__
 - always remember to update to the latest version
 
+__**folders**__
+- FtcRobotController - main framework, don't really touch anything here :)
+- TeamCode - put your opcodes and classses here
+
 __**opcode tutorial**__
 - clone one of the opcodes
 - wip
