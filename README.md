@@ -11,6 +11,12 @@ __**useful online resources**__
 
 __**tips**__
 - always remember to update to the latest version
+- opcodes **WILL NOT WORK** if the
+ ```java
+@Disabled
+```
+located at the top of the opcode is not commented out. To fix this just comment it out.
+
 
 __**folders**__
 - FtcRobotController - main framework, don't really touch anything here :)
