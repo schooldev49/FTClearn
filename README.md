@@ -8,3 +8,6 @@ __**useful online resources**__
 - [tricks like how to setup stuff in robot](https://ftc-tricks.com/)
 - [block coding tutorial to get concepts down](https://ftc-docs.firstinspires.org/en/latest/programming_resources/blocks/Blocks-Tutorial.html)
 - [guide by ritvik ig](https://codeftc.ritvikg.dev/intro/)
+
+__**tips**__
+- always remember to update to the latest version
