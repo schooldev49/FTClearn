@@ -11,3 +11,7 @@ __**useful online resources**__
 
 __**tips**__
 - always remember to update to the latest version
+
+__**opcode tutorial**__
+- clone one of the opcodes
+- wip
